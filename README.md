@@ -1,6 +1,6 @@
 # Using Deep Learning to Clone Driving Behavior
 
-In my [previous post](https://medium.com/@bdjukic/recognizing-traffic-signs-with-deep-neural-network-a725cd5a39fe) on self-driving cars and related [Udacity Nano degree](https://www.udacity.com/drive)project, I was writing about the use of deep neural network for traffic sign classification. This time around, I will be using deep neural network approach in order to mimic human driving behavior (in this particular case, driving a car in a simulator).
+In my [previous post](https://medium.com/@bdjukic/recognizing-traffic-signs-with-deep-neural-network-a725cd5a39fe) on self-driving cars and related [Udacity Nano degree](https://www.udacity.com/drive) project, I was writing about the use of deep neural network for traffic sign classification. This time around, I will be using deep neural network approach in order to mimic human driving behavior (in this particular case, driving a car in a simulator).
 
 ### Project goal
 
